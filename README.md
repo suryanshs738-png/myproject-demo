@@ -1,3 +1,3 @@
 # myproject-demo
 this my first git repo
-Author - Sooryansh singh
+Author - Sooryansh Singh
